@@ -1,3 +1,3 @@
 # Topics in Applied Operational Research
 
-The code demonstrates the 
+The code is for the course assignment titled 'Optimisation of Timetabling Using Genetic Algorithm'.
